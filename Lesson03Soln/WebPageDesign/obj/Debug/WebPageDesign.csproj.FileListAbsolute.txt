@@ -1,0 +1,17 @@
+D:\CardLab\Doc\MVC4\Examples\Lesson03Soln\WebPageDesign\bin\WebPageDesign.dll.config
+D:\CardLab\Doc\MVC4\Examples\Lesson03Soln\WebPageDesign\bin\WebPageDesign.dll
+D:\CardLab\Doc\MVC4\Examples\Lesson03Soln\WebPageDesign\bin\WebPageDesign.pdb
+D:\CardLab\Doc\MVC4\Examples\Lesson03Soln\WebPageDesign\bin\EntityFramework.dll
+D:\CardLab\Doc\MVC4\Examples\Lesson03Soln\WebPageDesign\bin\Microsoft.Web.Infrastructure.dll
+D:\CardLab\Doc\MVC4\Examples\Lesson03Soln\WebPageDesign\bin\Microsoft.Web.Optimization.dll
+D:\CardLab\Doc\MVC4\Examples\Lesson03Soln\WebPageDesign\bin\System.Web.Helpers.dll
+D:\CardLab\Doc\MVC4\Examples\Lesson03Soln\WebPageDesign\bin\System.Web.Mvc.dll
+D:\CardLab\Doc\MVC4\Examples\Lesson03Soln\WebPageDesign\bin\System.Web.Providers.dll
+D:\CardLab\Doc\MVC4\Examples\Lesson03Soln\WebPageDesign\bin\System.Web.Razor.dll
+D:\CardLab\Doc\MVC4\Examples\Lesson03Soln\WebPageDesign\bin\System.Web.WebPages.Deployment.dll
+D:\CardLab\Doc\MVC4\Examples\Lesson03Soln\WebPageDesign\bin\System.Web.WebPages.dll
+D:\CardLab\Doc\MVC4\Examples\Lesson03Soln\WebPageDesign\bin\System.Web.WebPages.Razor.dll
+D:\CardLab\Doc\MVC4\Examples\Lesson03Soln\WebPageDesign\bin\EntityFramework.xml
+D:\CardLab\Doc\MVC4\Examples\Lesson03Soln\WebPageDesign\obj\Debug\WebPageDesign.dll
+D:\CardLab\Doc\MVC4\Examples\Lesson03Soln\WebPageDesign\obj\Debug\WebPageDesign.pdb
+D:\CardLab\Doc\MVC4\Examples\Lesson03Soln\WebPageDesign\obj\Debug\WebPageDesign.csprojResolveAssemblyReference.cache
